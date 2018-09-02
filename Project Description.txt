@@ -7,7 +7,6 @@ Team(s) having the highest accuracy will get 2 extra points.
 
 All the teammates must contribute to the code. If not, the inactive members will be removed!
 
-
 HINT: Machine Learning Models can work on only numbers! So to work on categorical data, like gender, assign a number to each category. For example, Gender Question can 3 options, Male, Female, Prefer not to answer. So, assign 0 to Male, 1 to Female and 3 to Prefer not to answer. So here you go! you got some numbers to work on!
 
 train.csv: https://goo.gl/fstcdj
